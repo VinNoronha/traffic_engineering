@@ -1,0 +1,6 @@
+# Este script depende do ambiente Python do QGIS.
+# Recomendado usar QGIS 3.28 ou superior.
+
+# Bibliotecas utilizadas (já incluídas no QGIS)
+qgis
+PyQt5
