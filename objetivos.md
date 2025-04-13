@@ -26,8 +26,14 @@ Neste estudo, busco compreender os principais conceitos e aplicações da Engenh
 
 ## 2. Características dos Fluxos de Tráfego
 
-- Volume, velocidade e densidade (Pendente)
-- Relações fundamentais: fluxo vs. densidade, velocidade vs. densidade (Pendente)
+- Volume, velocidade e densidade
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Relações fundamentais: fluxo vs. densidade, velocidade vs. densidade
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 - Medidas de desempenho: tempo de viagem, atraso, nível de serviço (LOS) (Pendente)
 
 ---
