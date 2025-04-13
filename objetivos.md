@@ -21,6 +21,9 @@ Neste estudo, busco compreender os principais conceitos e aplicações da Engenh
 - [ ] concluída
 - [ ] em desenvolvimento
 - Tipos de tráfego: motorizado, não motorizado, de carga, de passageiros
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
@@ -34,7 +37,10 @@ Neste estudo, busco compreender os principais conceitos e aplicações da Engenh
 - [x] pendente
 - [ ] concluída
 - [ ] em desenvolvimento
-- Medidas de desempenho: tempo de viagem, atraso, nível de serviço (LOS) (Pendente)
+- Medidas de desempenho: tempo de viagem, atraso, nível de serviço (LOS)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
@@ -42,90 +48,210 @@ Neste estudo, busco compreender os principais conceitos e aplicações da Engenh
 
 ### 3.1 Topologia da Rede
 
-- Conceitos de grafos e nós (Pendente)
-- Representação de redes viárias como grafos direcionados (Pendente)
-- Tipos de interseções e nós (grau, conectividade) (Pendente)
+- Conceitos de grafos e nós
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Representação de redes viárias como grafos direcionados
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Tipos de interseções e nós (grau, conectividade)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ### 3.2 Modelagem de Redes de Transporte
 
-- Nós (interseções, conexões modais) (Em desenvolvimento)
-- Links (vias, segmentos) (Em desenvolvimento)
-- Matriz de impedância (tempo, distância, custo) (Pendente)
+- Nós (interseções, conexões modais)
+- [ ] pendente
+- [ ] concluída
+- [x] em desenvolvimento
+- Links (vias, segmentos)
+- [ ] pendente
+- [ ] concluída
+- [x] em desenvolvimento
+- Matriz de impedância (tempo, distância, custo)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ### 3.3 Atribuição de Tráfego em Redes
 
-- Alocação de fluxos: modelo de rota mais curta (Pendente)
-- Métodos de equilíbrio de Wardrop (usuário e sistema) (Pendente)
-- Algoritmos clássicos: Dijkstra, Floyd-Warshall, A* (Pendente)
-- Simulação de tráfego em redes (microssimulação e macrossimulação) (Pendente)
+- Alocação de fluxos: modelo de rota mais curta
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Métodos de equilíbrio de Wardrop (usuário e sistema)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Algoritmos clássicos: Dijkstra, Floyd-Warshall, A*
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Simulação de tráfego em redes (microssimulação e macrossimulação)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ### 3.4 Análise de Conectividade e Acessibilidade
 
-- Índices topológicos (alfa, beta, gama) (Pendente)
-- Alcance e centralidade de nós (Pendente)
-- Identificação de gargalos, redundância e vulnerabilidade (Pendente)
+- Índices topológicos (alfa, beta, gama)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Alcance e centralidade de nós
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Identificação de gargalos, redundância e vulnerabilidade
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ### 3.5 Capacidade e Operação em Redes
 
-- Capacidade de vias e interseções (Pendente)
-- Interação entre fluxos em trechos conectados (Pendente)
-- Controle de tráfego em rede: sinais semafóricos, prioridades (Pendente)
+- Capacidade de vias e interseções
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Interação entre fluxos em trechos conectados
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Controle de tráfego em rede: sinais semafóricos, prioridades
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ### 3.6 Avaliação de Desempenho de Redes
 
-- Nível de serviço agregado (LOS em rede) (Pendente)
-- Índices de desempenho (tempo médio, velocidade média, atraso) (Pendente)
-- Comparação de cenários (antes/depois de intervenções) (Pendente)
+- Nível de serviço agregado (LOS em rede)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Índices de desempenho (tempo médio, velocidade média, atraso)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Comparação de cenários (antes/depois de intervenções)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 4. Levantamentos e Pesquisas de Tráfego
 
-- Contagem volumétrica e classificatória (Pendente)
-- Pesquisas origem-destino (OD) (Pendente)
-- Estudos de velocidade e tempo de viagem (Pendente)
-- Tecnologias para coleta de dados (câmeras, sensores, GPS, aplicativos) (Pendente)
+- Contagem volumétrica e classificatória
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Pesquisas origem-destino (OD)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Estudos de velocidade e tempo de viagem
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Tecnologias para coleta de dados (câmeras, sensores, GPS, aplicativos)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 5. Planejamento e Projeto de Sistemas Viários
 
-- Hierarquia viária e malha urbana (Pendente)
-- Zoneamento e geração de viagens (Pendente)
-- Integração com transporte público e modos ativos (Pendente)
-- Impactos de novos empreendimentos (EIV-RIV) (Pendente)
+- Hierarquia viária e malha urbana
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Zoneamento e geração de viagens
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Integração com transporte público e modos ativos
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Impactos de novos empreendimentos (EIV-RIV)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 6. Sinalização e Controle de Tráfego
 
-- Sinalização vertical, horizontal e semafórica (Pendente)
-- Controle de interseções isoladas e em rede (sistemas coordenados) (Pendente)
-- Programação semafórica e sincronização (Pendente)
+- Sinalização vertical, horizontal e semafórica
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Controle de interseções isoladas e em rede (sistemas coordenados)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Programação semafórica e sincronização
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 7. Segurança Viária e Conflitos nas Redes
 
-- Identificação de pontos críticos (acidentes, conflitos) (Pendente)
-- Projetos de redução de velocidade (traffic calming) (Pendente)
-- Visibilidade, cruzamentos e travessias (Pendente)
-- Auditoria de segurança viária (Pendente)
+- Identificação de pontos críticos (acidentes, conflitos)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Projetos de redução de velocidade (traffic calming)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Visibilidade, cruzamentos e travessias
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Auditoria de segurança viária
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 8. Tecnologias e Ferramentas para Análise de Redes
 
-- SIG aplicado à engenharia de tráfego (Pendente)
-- Ferramentas de modelagem (ex: VISUM, TransCAD, SUMO, QGIS + plugins) (Pendente)
-- Sistemas Inteligentes de Transporte (ITS) (Pendente)
+- SIG aplicado à engenharia de tráfego
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Ferramentas de modelagem (ex: VISUM, TransCAD, SUMO, QGIS + plugins)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Sistemas Inteligentes de Transporte (ITS)
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
 
 ## 9. Sustentabilidade e Mobilidade Urbana
 
-- Redes multimodais e integração modal (Pendente)
-- Mobilidade ativa e acessibilidade (Pendente)
-- Avaliação ambiental de redes viárias (Pendente)
+- Redes multimodais e integração modal
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Mobilidade ativa e acessibilidade
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
+- Avaliação ambiental de redes viárias
+- [x] pendente
+- [ ] concluída
+- [ ] em desenvolvimento
 
 ---
