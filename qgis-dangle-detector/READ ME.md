@@ -7,6 +7,7 @@ Este projeto contém um script em Python desenvolvido para o QGIS que identifica
 - Identifica automaticamente os pontos finais desconectados (dangles).
 - Cria uma nova camada de pontos com os dangles detectados.
 - Interface amigável via QGIS (seleção da camada e barra de progresso).
+- Identifica automaticamente os pontos finais desconectados, mesmo que sobrepostos (false positive dangles) -- Solicitação Pendente de implementação !!
 
 ## Requisitos
 
